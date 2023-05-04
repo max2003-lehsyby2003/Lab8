@@ -1,0 +1,5 @@
+Student: id= |1|, famil= |Артем|, imy= |Циноборенко|, batkiv= |Русланович|, dataNarodg= |2001-02-02|, adress= |пр Центральний 28|, fakul= |Програмна інженерія|, grupa= |1148|, telefon= |01384562|, kurs= |1
+Student: id= |2|, famil= |Стрельченко|, imy= |Ерік|, batkiv= |Сергійович|, dataNarodg= |1998-03-03|, adress= |Корабельна 12|, fakul= |Комп'ютерні технологіі|, grupa= |1147|, telefon= |03254956|, kurs= |1
+Student: id= |3|, famil= |Юлія|, imy= |Василишина|, batkiv= |Михайлівна|, dataNarodg= |1999-05-05|, adress= |Соборна 20|, fakul= |Програмна інженерія|, grupa= |1148|, telefon= |02389465|, kurs= |2
+Student: id= |4|, famil= |Олександр|, imy= |Жевак|, batkiv= |Олександрович|, dataNarodg= |2001-09-09|, adress= |ПГУ 32|, fakul= |Комп'ютерні технологіі|, grupa= |1147|, telefon= |0632595|, kurs= |1
+Student: id= |5|, famil= |Олексій|, imy= |Макогон|, batkiv= |Едуардович|, dataNarodg= |2003-07-07|, adress= |ПГУ2|, fakul= |Системний аналіз|, grupa= |1147|, telefon= |03258951|, kurs= |1
